@@ -5,5 +5,5 @@
     :maxdepth: 1
     
     worksheets/index
-    infolog
+    infolog/index
     timeclock
