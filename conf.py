@@ -459,7 +459,7 @@ if on_rtd:
     \DeclareUnicodeCharacter{221B}{\ensuremath{\sqrt[3]{}}}
     \DeclareUnicodeCharacter{2295}{\ensuremath{\oplus}}
     \DeclareUnicodeCharacter{2297}{\ensuremath{\otimes}}
-    \begin{CJK}{UTF8}{gbsn}
+    \begin{CJK}{UTF8}{bsmi}
     \AtEndDocument{\end{CJK}}
     ''',
     }
