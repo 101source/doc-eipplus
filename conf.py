@@ -436,6 +436,7 @@ epub_exclude_files = ['search.html']
 #
 # epub_use_index = True
 
+import os
 on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
 
 if on_rtd:
