@@ -6,4 +6,5 @@
     
     worksheets/index
     infolog/index
+    addressbook/index
     timeclock
