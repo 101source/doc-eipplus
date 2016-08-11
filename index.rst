@@ -9,6 +9,7 @@
 .. toctree::
    :maxdepth: 2
 
+   home/index
    daily-work/index
 
 
