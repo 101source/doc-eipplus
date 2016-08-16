@@ -7,3 +7,4 @@
     worksheets/index
     infolog/index
     addressbook/index
+    email/index
