@@ -11,6 +11,7 @@
 
    home/index
    daily-work/index
+   collaboration/index
 
 
 
