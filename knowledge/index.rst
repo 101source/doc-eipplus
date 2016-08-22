@@ -4,4 +4,4 @@
 .. toctree:: 
     :maxdepth: 1
     
-    file/index
+    filemanager/index
