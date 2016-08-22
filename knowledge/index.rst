@@ -5,3 +5,5 @@
     :maxdepth: 1
     
     filemanager/index
+    article/index
+    bookmark/index
