@@ -8,3 +8,4 @@
     article/index
     bookmark/index
     albums/index
+    film/index
