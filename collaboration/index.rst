@@ -8,3 +8,4 @@
     news/index
     polls/index
     calendar/index
+    marquee/index
