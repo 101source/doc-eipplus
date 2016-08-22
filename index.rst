@@ -11,7 +11,9 @@
 
    home/index
    daily-work/index
-
+   collaboration/index
+   knowledge/index
+   eForms/index
 
 
 搜尋及全文索引
