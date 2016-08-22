@@ -7,3 +7,4 @@
     filemanager/index
     article/index
     bookmark/index
+    albums/index
