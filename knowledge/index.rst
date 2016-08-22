@@ -9,3 +9,4 @@
     bookmark/index
     albums/index
     film/index
+    forum/index
