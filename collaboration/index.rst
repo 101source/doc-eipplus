@@ -7,3 +7,4 @@
     circulation/index
     news/index
     polls/index
+    calendar/index
