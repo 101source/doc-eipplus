@@ -1,11 +1,14 @@
-企業管理
+人員資料管理
 ----------
 
 .. toctree:: 
     :maxdepth: 1
     
-    staff/index
-    payslip/index
-    attendance/index
-    assessment/index
-    
+    vendor/index
+    customer/index
+    product/index
+    archive/index
+    projectmanager/index
+    resources/index
+    meeting/index
+    entry/index
