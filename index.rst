@@ -13,7 +13,9 @@
    daily-work/index
    collaboration/index
    knowledge/index
-   eForms/index
+   eForm/index
+   management/index
+   human-resources/index
 
 
 搜尋及全文索引
